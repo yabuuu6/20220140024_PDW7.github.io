@@ -1,0 +1,7 @@
+  /* Custom CSS untuk menyesuaikan ukuran Jumbotron */
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #d9e2ea;
+    border-radius: 0.5rem;
+}
